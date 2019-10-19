@@ -101,7 +101,7 @@ def printPath(node):
     return res
 
 
-### finish the A* search funciton below
+### A* search main funciton
 def search(maze, start, end, cost, heuristic):
 
     # Create start node
