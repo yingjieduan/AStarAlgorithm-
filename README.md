@@ -8,9 +8,13 @@ In the maze, 0 is open path while 1 means wall (a robot cannot pass through wall
 (Heuristic is provided)
 
 0	1	0	0	0	0
+
 0	1	0	0	0	0
+
 0	1	0	0	0	0
+
 0	1	0	0	0	0
+
 0	0	0	0	1	0
 
 start from [0,0] to the end [n,n]
